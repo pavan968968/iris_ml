@@ -78,3 +78,25 @@ This project was completed as part of an internship submission to demonstrate un
 
 ## 📂 Repository Structure
  
+
+---
+
+## 🎯 Conclusion
+
+This project demonstrates fundamental understanding of:
+
+- Supervised vs Unsupervised Learning
+- Data preprocessing techniques
+- Model training and evaluation
+- Visualization of clustering results
+
+The implementation highlights practical application of machine learning algorithms on structured datasets.
+
+---
+
+## 🚀 Future Improvements
+
+- Hyperparameter tuning
+- Cross-validation
+- Comparison with other algorithms
+- Deployment as a simple web application
